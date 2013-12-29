@@ -1,0 +1,15 @@
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bin\Release\resources.pri
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bin\Release\AppxManifest.xml
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bin\Release\Quadropong.build.appxrecipe
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\priconfig.xml
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\priconfig.xml.intermediate
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\layout.resfiles
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\layout.resfiles.intermediate
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\resources.resfiles
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\resources.resfiles.intermediate
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\pri.resfiles
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\pri.resfiles.intermediate
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\qualifiers.txt
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\qualifiers.txt.intermediate
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Release\ProjectArchitectures.txt

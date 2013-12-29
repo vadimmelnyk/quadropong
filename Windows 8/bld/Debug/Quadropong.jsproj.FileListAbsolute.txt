@@ -1,0 +1,15 @@
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bin\Debug\AppxManifest.xml
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bin\Debug\Quadropong.build.appxrecipe
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\priconfig.xml
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\priconfig.xml.intermediate
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\layout.resfiles
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\layout.resfiles.intermediate
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\resources.resfiles
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\resources.resfiles.intermediate
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\pri.resfiles
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\pri.resfiles.intermediate
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\qualifiers.txt
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bld\Debug\ProjectArchitectures.txt
+C:\Users\Vadim Melnyk\Desktop\Quadropong\bin\Debug\ReverseMap\resources.pri

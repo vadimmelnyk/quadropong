@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP</Machine>
+    <WindowsUser>V. Melnyk</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>31558vadimmelnyk.HistoricalQuadropong</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\about.html">
+      <PackagePath>about.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\support.html">
+      <PackagePath>support.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\jquery-2.0.0.min.js">
+      <PackagePath>jquery-2.0.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\ball-sheet0.png">
+      <PackagePath>images\ball-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\brickleft-sheet0.png">
+      <PackagePath>images\brickleft-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\cornertopleft-sheet0.png">
+      <PackagePath>images\cornertopleft-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\sprite-sheet0.png">
+      <PackagePath>images\sprite-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\sprite2-sheet0.png">
+      <PackagePath>images\sprite2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\background-sheet0.png">
+      <PackagePath>images\background-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\logo-sheet0.png">
+      <PackagePath>images\logo-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\newgame-sheet0.png">
+      <PackagePath>images\newgame-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\howtoplaybutton-sheet0.png">
+      <PackagePath>images\howtoplaybutton-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\highscores-sheet0.png">
+      <PackagePath>images\highscores-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\sprite3-sheet0.png">
+      <PackagePath>images\sprite3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\sprite4-sheet0.png">
+      <PackagePath>images\sprite4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\sprite5-sheet0.png">
+      <PackagePath>images\sprite5-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\sprite6-sheet0.png">
+      <PackagePath>images\sprite6-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\paper-sheet0.png">
+      <PackagePath>images\paper-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\playagain-sheet0.png">
+      <PackagePath>images\playagain-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\images\closeinfobox-sheet0.png">
+      <PackagePath>images\closeinfobox-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\icon-256.png">
+      <PackagePath>icon-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\app-logo.png">
+      <PackagePath>app-logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\app-smalllogo.png">
+      <PackagePath>app-smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\app-storelogo.png">
+      <PackagePath>app-storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\splashscreen.png">
+      <PackagePath>splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\WindowsStoreProxy.xml">
+      <PackagePath>WindowsStoreProxy.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vadim Melnyk\Desktop\Quadropong\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
